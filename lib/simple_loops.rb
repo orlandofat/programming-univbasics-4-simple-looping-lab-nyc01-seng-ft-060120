@@ -29,4 +29,5 @@ count = 0
     array[count] = array[count].to_s
  count += 1
  end
+ array
 end
